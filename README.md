@@ -1,7 +1,7 @@
 # RDP管理器
 
 一个用于管理Windows远程桌面连接的图形界面工具。
-[img](https://github.com/desire668/RDPM/raw/main/test.png)
+![img](https://github.com/desire668/RDPM/raw/main/test.png)
 
 ## 功能特点
 
